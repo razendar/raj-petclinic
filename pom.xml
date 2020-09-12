@@ -13,7 +13,7 @@
     <version>2.0.4.RELEASE</version>
   </parent>
   <name>petclinic</name>
-  <package>war<package>
+  <packaging>war<packaging>
 
   <properties>
 
